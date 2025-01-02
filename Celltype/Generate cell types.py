@@ -119,7 +119,7 @@ def get_all_cell_types(data_folder):
     return df.sort_values(by='Cell-type').reset_index(drop=True)
 
 # 使用示例
-data_folder = '../data copy'  # 数据文件夹路径
+data_folder = '../data'  # 数据文件夹路径
 cell_types_df = get_all_cell_types(data_folder)
 
 # 设置输出文件夹为当前文件夹
