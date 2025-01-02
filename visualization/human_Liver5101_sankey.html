@@ -7,11 +7,11 @@
 
 </head>
 <body >
-    <div id="1f28071f18444c249a75d5ed74547267" class="chart-container" style="width:1200px; height:800px; "></div>
+    <div id="f069d758013247a4afa5dec5c869ce7f" class="chart-container" style="width:1200px; height:800px; "></div>
     <script>
-        var chart_1f28071f18444c249a75d5ed74547267 = echarts.init(
-            document.getElementById('1f28071f18444c249a75d5ed74547267'), 'white', {renderer: 'canvas'});
-        var option_1f28071f18444c249a75d5ed74547267 = {
+        var chart_f069d758013247a4afa5dec5c869ce7f = echarts.init(
+            document.getElementById('f069d758013247a4afa5dec5c869ce7f'), 'white', {renderer: 'canvas'});
+        var option_f069d758013247a4afa5dec5c869ce7f = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -42,7 +42,7 @@
                     "name": "B cell (\u771f\u5b9e\u7c7b\u522b)"
                 },
                 {
-                    "name": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)"
+                    "name": "Endothelial (\u771f\u5b9e\u7c7b\u522b)"
                 },
                 {
                     "name": "T cell (\u771f\u5b9e\u7c7b\u522b)"
@@ -51,10 +51,16 @@
                     "name": "B cell (\u9884\u6d4b\u7c7b\u522b)"
                 },
                 {
-                    "name": "Endothelial cell (\u9884\u6d4b\u7c7b\u522b)"
+                    "name": "Endothelial (\u9884\u6d4b\u7c7b\u522b)"
+                },
+                {
+                    "name": "Macrophage (\u9884\u6d4b\u7c7b\u522b)"
                 },
                 {
                     "name": "Monocyte (\u9884\u6d4b\u7c7b\u522b)"
+                },
+                {
+                    "name": "Neutrophil (\u9884\u6d4b\u7c7b\u522b)"
                 },
                 {
                     "name": "T cell (\u9884\u6d4b\u7c7b\u522b)"
@@ -63,10 +69,7 @@
                     "name": "Unrecognized (\u9884\u6d4b\u7c7b\u522b)"
                 },
                 {
-                    "name": "Macrophage (\u9884\u6d4b\u7c7b\u522b)"
-                },
-                {
-                    "name": "Neutrophil (\u9884\u6d4b\u7c7b\u522b)"
+                    "name": "Progenitors (\u9884\u6d4b\u7c7b\u522b)"
                 },
                 {
                     "name": "Dendritic cell (\u9884\u6d4b\u7c7b\u522b)"
@@ -76,62 +79,77 @@
                 {
                     "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "B cell (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 138
+                    "value": 132
                 },
                 {
                     "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
-                    "target": "Endothelial cell (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 16
+                    "target": "Endothelial (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 27
+                },
+                {
+                    "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Macrophage (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 2
                 },
                 {
                     "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "Monocyte (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 3
+                },
+                {
+                    "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Neutrophil (\u9884\u6d4b\u7c7b\u522b)",
                     "value": 2
                 },
                 {
                     "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "T cell (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 34
+                    "value": 30
                 },
                 {
                     "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "Unrecognized (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 15
+                    "value": 9
                 },
                 {
-                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
-                    "target": "Endothelial cell (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 1784
+                    "source": "Endothelial (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Endothelial (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 1796
                 },
                 {
-                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "source": "Endothelial (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "Macrophage (\u9884\u6d4b\u7c7b\u522b)",
                     "value": 3
                 },
                 {
-                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "source": "Endothelial (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "Monocyte (\u9884\u6d4b\u7c7b\u522b)",
                     "value": 1
                 },
                 {
-                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "source": "Endothelial (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "Neutrophil (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 3
+                    "value": 4
                 },
                 {
-                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "source": "Endothelial (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Progenitors (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 12
+                },
+                {
+                    "source": "Endothelial (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "T cell (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 21
+                    "value": 13
                 },
                 {
-                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "source": "Endothelial (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "Unrecognized (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 18
+                    "value": 1
                 },
                 {
                     "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "B cell (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 21
+                    "value": 17
                 },
                 {
                     "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
@@ -140,33 +158,38 @@
                 },
                 {
                     "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
-                    "target": "Endothelial cell (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 105
+                    "target": "Endothelial (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 217
                 },
                 {
                     "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "Macrophage (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 6
+                    "value": 21
                 },
                 {
                     "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "Monocyte (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 34
+                    "value": 17
                 },
                 {
                     "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "Neutrophil (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 49
+                },
+                {
+                    "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Progenitors (\u9884\u6d4b\u7c7b\u522b)",
                     "value": 2
                 },
                 {
                     "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "T cell (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 2838
+                    "value": 2707
                 },
                 {
                     "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
                     "target": "Unrecognized (\u9884\u6d4b\u7c7b\u522b)",
-                    "value": 58
+                    "value": 34
                 }
             ],
             "left": "5%",
@@ -264,7 +287,7 @@
         }
     ]
 };
-        chart_1f28071f18444c249a75d5ed74547267.setOption(option_1f28071f18444c249a75d5ed74547267);
+        chart_f069d758013247a4afa5dec5c869ce7f.setOption(option_f069d758013247a4afa5dec5c869ce7f);
     </script>
 </body>
 </html>

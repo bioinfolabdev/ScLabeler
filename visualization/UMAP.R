@@ -2,6 +2,7 @@
 library(Seurat)
 library(ggplot2)
 library(dplyr)
+library(scales) # 用于生成颜色映射
 
 # 1. 读取基因表达矩阵
 expression_matrix <- read.table(
@@ -41,14 +42,10 @@ predicted_cell_types <- sclabeler_results %>%
 # 将预测细胞类型映射到元数据
 seurat_object$Predicted_Cell_Type <- predicted_cell_types$Predicted_Cell_Type[match(colnames(seurat_object), sclabeler_results[[1]])]
 
-# 绘制预测细胞类型 UMAP 图
-p_predicted <- DimPlot(seurat_object, reduction = "umap", group.by = "Predicted_Cell_Type") +
-  ggtitle("Predicted Cell Types")
+# 初始化统一的颜色映射
+cell_type_union <- unique(seurat_object$Predicted_Cell_Type)
 
-# 保存预测细胞类型 UMAP 图
-ggsave("Predicted_Cell_Types.png", plot = p_predicted, width = 8, height = 6, dpi = 300)
-
-# 检查是否有真实细胞类型列（假设为第 3 列）
+# 检查是否存在真实细胞类型
 if (ncol(sclabeler_results) >= 3) {
   true_cell_types <- sclabeler_results %>%
     filter(sclabeler_results[[1]] %in% common_cells) %>%
@@ -57,10 +54,28 @@ if (ncol(sclabeler_results) >= 3) {
   # 将真实细胞类型映射到元数据
   seurat_object$True_Cell_Type <- true_cell_types$True_Cell_Type[match(colnames(seurat_object), sclabeler_results[[1]])]
   
-  # 绘制真实细胞类型 UMAP 图
+  # 合并真实和预测的细胞类型以生成统一颜色映射
+  cell_type_union <- unique(c(cell_type_union, seurat_object$True_Cell_Type))
+}
+
+# 为所有细胞类型生成统一的颜色映射
+cell_type_colors <- hue_pal()(length(cell_type_union))  # 为每个细胞类型生成不同的颜色
+names(cell_type_colors) <- cell_type_union  # 将颜色与细胞类型对应
+
+# 绘制预测细胞类型 UMAP 图
+p_predicted <- DimPlot(seurat_object, reduction = "umap", group.by = "Predicted_Cell_Type") +
+  scale_color_manual(values = cell_type_colors) +  # 使用统一颜色
+  ggtitle("Predicted Cell Types")
+
+# 保存预测细胞类型 UMAP 图
+ggsave("visualization/Predicted_Cell_Types.png", plot = p_predicted, width = 8, height = 6, dpi = 300)
+
+# 如果存在真实细胞类型，则绘制真实细胞类型 UMAP 图
+if (ncol(sclabeler_results) >= 3) {
   p_true <- DimPlot(seurat_object, reduction = "umap", group.by = "True_Cell_Type") +
+    scale_color_manual(values = cell_type_colors) +  # 使用统一颜色
     ggtitle("True Cell Types")
   
   # 保存真实细胞类型 UMAP 图
-  ggsave("True_Cell_Types.png", plot = p_true, width = 8, height = 6, dpi = 300)
+  ggsave("visualization/True_Cell_Types.png", plot = p_true, width = 8, height = 6, dpi = 300)
 }
