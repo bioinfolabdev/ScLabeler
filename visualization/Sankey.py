@@ -4,7 +4,7 @@ from pyecharts import options as opts
 import webbrowser
 
 # 读取数据
-file_path = '../../results/human/Liver/human_Liver5101_predictions.csv'  # 替换为实际文件路径
+file_path = '../results/human/Liver/human_Liver5101_predictions.csv'  # 替换为实际文件路径
 data = pd.read_csv(file_path)
 
 # 按 True Cell Types 和 Predicted Cell Types 统计流向和数量
