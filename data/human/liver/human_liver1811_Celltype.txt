@@ -1,0 +1,1812 @@
+Cell	Cell_type
+C_1	Sinusoidal endothelial cell
+C_2	T cell
+C_3	Dendritic cell
+C_4	T cell
+C_5	T cell
+C_6	Sinusoidal endothelial cell
+C_7	T cell
+C_8	Sinusoidal endothelial cell
+C_9	T cell
+C_10	T cell
+C_11	Sinusoidal endothelial cell
+C_12	Sinusoidal endothelial cell
+C_13	T cell
+C_14	Sinusoidal endothelial cell
+C_15	T cell
+C_16	T cell
+C_17	Antigen presenting cell (RPS high)
+C_18	T cell
+C_19	T cell
+C_20	Sinusoidal endothelial cell
+C_21	Sinusoidal endothelial cell
+C_22	T cell
+C_23	Sinusoidal endothelial cell
+C_24	T cell
+C_25	Sinusoidal endothelial cell
+C_26	T cell
+C_27	T cell
+C_28	T cell
+C_29	T cell
+C_30	T cell
+C_31	T cell
+C_32	T cell
+C_33	T cell
+C_34	T cell
+C_35	T cell
+C_36	T cell
+C_37	T cell
+C_38	B cell
+C_39	Sinusoidal endothelial cell
+C_40	T cell
+C_41	T cell
+C_42	T cell
+C_43	Sinusoidal endothelial cell
+C_44	T cell
+C_45	T cell
+C_46	T cell
+C_47	T cell
+C_48	Sinusoidal endothelial cell
+C_49	T cell
+C_50	Sinusoidal endothelial cell
+C_51	Sinusoidal endothelial cell
+C_52	Sinusoidal endothelial cell
+C_53	Sinusoidal endothelial cell
+C_54	T cell
+C_55	T cell
+C_56	Monocyte
+C_57	T cell
+C_58	Neutrophil
+C_59	T cell
+C_60	T cell
+C_61	T cell
+C_62	Sinusoidal endothelial cell
+C_63	Sinusoidal endothelial cell
+C_64	T cell
+C_65	T cell
+C_66	Dendritic cell
+C_67	Sinusoidal endothelial cell
+C_68	Sinusoidal endothelial cell
+C_69	T cell
+C_70	T cell
+C_71	T cell
+C_72	T cell
+C_73	T cell
+C_74	T cell
+C_75	T cell
+C_76	Sinusoidal endothelial cell
+C_77	Sinusoidal endothelial cell
+C_78	Sinusoidal endothelial cell
+C_79	Sinusoidal endothelial cell
+C_80	T cell
+C_81	T cell
+C_82	Sinusoidal endothelial cell
+C_83	T cell
+C_84	T cell
+C_85	T cell
+C_86	T cell
+C_87	Monocyte
+C_88	T cell
+C_89	Monocyte
+C_90	T cell
+C_91	T cell
+C_92	Sinusoidal endothelial cell
+C_93	T cell
+C_94	T cell
+C_95	Monocyte
+C_96	T cell
+C_97	T cell
+C_98	Neutrophil
+C_99	T cell
+C_100	T cell
+C_101	T cell
+C_102	Sinusoidal endothelial cell
+C_103	Sinusoidal endothelial cell
+C_104	T cell
+C_105	T cell
+C_106	Sinusoidal endothelial cell
+C_107	T cell
+C_108	T cell
+C_109	Sinusoidal endothelial cell
+C_110	Sinusoidal endothelial cell
+C_111	Sinusoidal endothelial cell
+C_112	Sinusoidal endothelial cell
+C_113	T cell
+C_114	T cell
+C_115	T cell
+C_116	Sinusoidal endothelial cell
+C_117	Sinusoidal endothelial cell
+C_118	Sinusoidal endothelial cell
+C_119	Sinusoidal endothelial cell
+C_120	T cell
+C_121	T cell
+C_122	T cell
+C_123	T cell
+C_124	Sinusoidal endothelial cell
+C_125	T cell
+C_126	Sinusoidal endothelial cell
+C_127	Neutrophil
+C_128	Sinusoidal endothelial cell
+C_129	T cell
+C_130	Antigen presenting cell (RPS high)
+C_131	T cell
+C_132	T cell
+C_133	Sinusoidal endothelial cell
+C_134	T cell
+C_135	Sinusoidal endothelial cell
+C_136	T cell
+C_137	Monocyte
+C_138	T cell
+C_139	T cell
+C_140	T cell
+C_141	Sinusoidal endothelial cell
+C_142	T cell
+C_143	Sinusoidal endothelial cell
+C_144	T cell
+C_145	Sinusoidal endothelial cell
+C_146	T cell
+C_147	Sinusoidal endothelial cell
+C_148	Sinusoidal endothelial cell
+C_149	T cell
+C_150	T cell
+C_151	Sinusoidal endothelial cell
+C_152	B cell
+C_153	Monocyte
+C_154	Sinusoidal endothelial cell
+C_155	T cell
+C_156	T cell
+C_157	T cell
+C_158	Sinusoidal endothelial cell
+C_159	T cell
+C_160	Sinusoidal endothelial cell
+C_161	T cell
+C_162	Sinusoidal endothelial cell
+C_163	Sinusoidal endothelial cell
+C_164	T cell
+C_165	Sinusoidal endothelial cell
+C_166	Sinusoidal endothelial cell
+C_167	Sinusoidal endothelial cell
+C_168	Sinusoidal endothelial cell
+C_169	T cell
+C_170	Sinusoidal endothelial cell
+C_171	T cell
+C_172	Sinusoidal endothelial cell
+C_173	T cell
+C_174	Sinusoidal endothelial cell
+C_175	T cell
+C_176	Monocyte
+C_177	T cell
+C_178	T cell
+C_179	T cell
+C_180	Sinusoidal endothelial cell
+C_181	Neutrophil (RPS high)
+C_182	Sinusoidal endothelial cell
+C_183	T cell
+C_184	Sinusoidal endothelial cell
+C_185	Sinusoidal endothelial cell
+C_186	T cell
+C_187	T cell
+C_188	T cell
+C_189	Sinusoidal endothelial cell
+C_190	T cell
+C_191	Sinusoidal endothelial cell
+C_192	T cell
+C_193	Sinusoidal endothelial cell
+C_194	T cell
+C_195	Sinusoidal endothelial cell
+C_196	Neutrophil
+C_197	Sinusoidal endothelial cell
+C_198	Sinusoidal endothelial cell
+C_199	T cell
+C_200	Sinusoidal endothelial cell
+C_201	Sinusoidal endothelial cell
+C_202	Sinusoidal endothelial cell
+C_203	Sinusoidal endothelial cell
+C_204	T cell
+C_205	T cell
+C_206	Neutrophil
+C_207	T cell
+C_208	T cell
+C_209	Sinusoidal endothelial cell
+C_210	T cell
+C_211	T cell
+C_212	T cell
+C_213	Sinusoidal endothelial cell
+C_214	T cell
+C_215	T cell
+C_216	B cell
+C_217	T cell
+C_218	T cell
+C_219	T cell
+C_220	T cell
+C_221	T cell
+C_222	T cell
+C_223	T cell
+C_224	Sinusoidal endothelial cell
+C_225	Sinusoidal endothelial cell
+C_226	T cell
+C_227	T cell
+C_228	T cell
+C_229	T cell
+C_230	Sinusoidal endothelial cell
+C_231	Sinusoidal endothelial cell
+C_232	T cell
+C_233	T cell
+C_234	T cell
+C_235	T cell
+C_236	T cell
+C_237	T cell
+C_238	T cell
+C_239	Sinusoidal endothelial cell
+C_240	T cell
+C_241	T cell
+C_242	T cell
+C_243	T cell
+C_244	Sinusoidal endothelial cell
+C_245	T cell
+C_246	T cell
+C_247	T cell
+C_248	T cell
+C_249	T cell
+C_250	Sinusoidal endothelial cell
+C_251	T cell
+C_252	T cell
+C_253	T cell
+C_254	T cell
+C_255	T cell
+C_256	T cell
+C_257	T cell
+C_258	T cell
+C_259	Erythroid progenitor cell (RP high)
+C_260	T cell
+C_261	Erythroid progenitor cell (RP high)
+C_262	T cell
+C_263	T cell
+C_264	T cell
+C_265	T cell
+C_266	T cell
+C_267	T cell
+C_268	T cell
+C_269	T cell
+C_270	T cell
+C_271	T cell
+C_272	T cell
+C_273	T cell
+C_274	T cell
+C_275	T cell
+C_276	Erythroid progenitor cell (RP high)
+C_277	T cell
+C_278	T cell
+C_279	T cell
+C_280	T cell
+C_281	T cell
+C_282	T cell
+C_283	T cell
+C_284	T cell
+C_285	T cell
+C_286	T cell
+C_287	T cell
+C_288	T cell
+C_289	T cell
+C_290	T cell
+C_291	T cell
+C_292	T cell
+C_293	T cell
+C_294	T cell
+C_295	T cell
+C_296	T cell
+C_297	T cell
+C_298	T cell
+C_299	T cell
+C_300	T cell
+C_301	T cell
+C_302	T cell
+C_303	T cell
+C_304	T cell
+C_305	T cell
+C_306	T cell
+C_307	T cell
+C_308	Neutrophil
+C_309	T cell
+C_310	T cell
+C_311	T cell
+C_312	T cell
+C_313	T cell
+C_314	T cell
+C_315	T cell
+C_316	T cell
+C_317	T cell
+C_318	T cell
+C_319	T cell
+C_320	T cell
+C_321	T cell
+C_322	Dendritic cell
+C_323	T cell
+C_324	T cell
+C_325	T cell
+C_326	T cell
+C_327	T cell
+C_328	T cell
+C_329	T cell
+C_330	T cell
+C_331	T cell
+C_332	T cell
+C_333	Sinusoidal endothelial cell
+C_334	T cell
+C_335	T cell
+C_336	T cell
+C_337	T cell
+C_338	T cell
+C_339	T cell
+C_340	T cell
+C_341	T cell
+C_342	T cell
+C_343	T cell
+C_344	T cell
+C_345	T cell
+C_346	T cell
+C_347	T cell
+C_348	T cell
+C_349	T cell
+C_350	T cell
+C_351	T cell
+C_352	T cell
+C_353	T cell
+C_354	T cell
+C_355	T cell
+C_356	T cell
+C_357	T cell
+C_358	T cell
+C_359	T cell
+C_360	T cell
+C_361	T cell
+C_362	T cell
+C_363	B cell (Plasmocyte)
+C_364	T cell
+C_365	Sinusoidal endothelial cell
+C_366	T cell
+C_367	T cell
+C_368	T cell
+C_369	T cell
+C_370	T cell
+C_371	T cell
+C_372	Pancreas exocrine cell
+C_373	Sinusoidal endothelial cell
+C_374	T cell
+C_375	T cell
+C_376	T cell
+C_377	Sinusoidal endothelial cell
+C_378	Sinusoidal endothelial cell
+C_379	T cell
+C_380	Sinusoidal endothelial cell
+C_381	T cell
+C_382	T cell
+C_383	T cell
+C_384	T cell
+C_385	T cell
+C_386	Erythroid progenitor cell (RP high)
+C_387	T cell
+C_388	T cell
+C_389	T cell
+C_390	Sinusoidal endothelial cell
+C_391	T cell
+C_392	T cell
+C_393	T cell
+C_394	T cell
+C_395	T cell
+C_396	T cell
+C_397	T cell
+C_398	T cell
+C_399	T cell
+C_400	T cell
+C_401	T cell
+C_402	T cell
+C_403	T cell
+C_404	T cell
+C_405	T cell
+C_406	T cell
+C_407	T cell
+C_408	T cell
+C_409	T cell
+C_410	T cell
+C_411	T cell
+C_412	T cell
+C_413	Erythroid progenitor cell (RP high)
+C_414	Sinusoidal endothelial cell
+C_415	Sinusoidal endothelial cell
+C_416	Sinusoidal endothelial cell
+C_417	Sinusoidal endothelial cell
+C_418	Sinusoidal endothelial cell
+C_419	Sinusoidal endothelial cell
+C_420	Sinusoidal endothelial cell
+C_421	Sinusoidal endothelial cell
+C_422	Sinusoidal endothelial cell
+C_423	Sinusoidal endothelial cell
+C_424	Sinusoidal endothelial cell
+C_425	Sinusoidal endothelial cell
+C_426	Sinusoidal endothelial cell
+C_427	Sinusoidal endothelial cell
+C_428	Sinusoidal endothelial cell
+C_429	Sinusoidal endothelial cell
+C_430	Endothelial cell (APC)
+C_431	Sinusoidal endothelial cell
+C_432	Sinusoidal endothelial cell
+C_433	Sinusoidal endothelial cell
+C_434	Sinusoidal endothelial cell
+C_435	Sinusoidal endothelial cell
+C_436	Sinusoidal endothelial cell
+C_437	Sinusoidal endothelial cell
+C_438	Sinusoidal endothelial cell
+C_439	Sinusoidal endothelial cell
+C_440	Sinusoidal endothelial cell
+C_441	Sinusoidal endothelial cell
+C_442	Sinusoidal endothelial cell
+C_443	Sinusoidal endothelial cell
+C_444	Sinusoidal endothelial cell
+C_445	Sinusoidal endothelial cell
+C_446	Sinusoidal endothelial cell
+C_447	Sinusoidal endothelial cell
+C_448	Sinusoidal endothelial cell
+C_449	Sinusoidal endothelial cell
+C_450	Sinusoidal endothelial cell
+C_451	Sinusoidal endothelial cell
+C_452	Sinusoidal endothelial cell
+C_453	Sinusoidal endothelial cell
+C_454	Sinusoidal endothelial cell
+C_455	Sinusoidal endothelial cell
+C_456	Sinusoidal endothelial cell
+C_457	Sinusoidal endothelial cell
+C_458	Sinusoidal endothelial cell
+C_459	Sinusoidal endothelial cell
+C_460	Sinusoidal endothelial cell
+C_461	Sinusoidal endothelial cell
+C_462	Sinusoidal endothelial cell
+C_463	Sinusoidal endothelial cell
+C_464	Sinusoidal endothelial cell
+C_465	Sinusoidal endothelial cell
+C_466	Sinusoidal endothelial cell
+C_467	Sinusoidal endothelial cell
+C_468	Sinusoidal endothelial cell
+C_469	Sinusoidal endothelial cell
+C_470	Sinusoidal endothelial cell
+C_471	Sinusoidal endothelial cell
+C_472	Sinusoidal endothelial cell
+C_473	Sinusoidal endothelial cell
+C_474	Sinusoidal endothelial cell
+C_475	Sinusoidal endothelial cell
+C_476	Sinusoidal endothelial cell
+C_477	Sinusoidal endothelial cell
+C_478	Sinusoidal endothelial cell
+C_479	Sinusoidal endothelial cell
+C_480	Sinusoidal endothelial cell
+C_481	Sinusoidal endothelial cell
+C_482	Sinusoidal endothelial cell
+C_483	Monocyte
+C_484	Sinusoidal endothelial cell
+C_485	Sinusoidal endothelial cell
+C_486	Sinusoidal endothelial cell
+C_487	Sinusoidal endothelial cell
+C_488	Sinusoidal endothelial cell
+C_489	Sinusoidal endothelial cell
+C_490	Sinusoidal endothelial cell
+C_491	Sinusoidal endothelial cell
+C_492	Sinusoidal endothelial cell
+C_493	Sinusoidal endothelial cell
+C_494	Sinusoidal endothelial cell
+C_495	Sinusoidal endothelial cell
+C_496	Sinusoidal endothelial cell
+C_497	Sinusoidal endothelial cell
+C_498	Sinusoidal endothelial cell
+C_499	Sinusoidal endothelial cell
+C_500	Sinusoidal endothelial cell
+C_501	Sinusoidal endothelial cell
+C_502	Sinusoidal endothelial cell
+C_503	Sinusoidal endothelial cell
+C_504	Sinusoidal endothelial cell
+C_505	Sinusoidal endothelial cell
+C_506	Sinusoidal endothelial cell
+C_507	Sinusoidal endothelial cell
+C_508	Sinusoidal endothelial cell
+C_509	Sinusoidal endothelial cell
+C_510	Sinusoidal endothelial cell
+C_511	Sinusoidal endothelial cell
+C_512	Sinusoidal endothelial cell
+C_513	Sinusoidal endothelial cell
+C_514	Sinusoidal endothelial cell
+C_515	Sinusoidal endothelial cell
+C_516	Sinusoidal endothelial cell
+C_517	Sinusoidal endothelial cell
+C_518	Sinusoidal endothelial cell
+C_519	Sinusoidal endothelial cell
+C_520	Sinusoidal endothelial cell
+C_521	Sinusoidal endothelial cell
+C_522	Sinusoidal endothelial cell
+C_523	Sinusoidal endothelial cell
+C_524	Sinusoidal endothelial cell
+C_525	Sinusoidal endothelial cell
+C_526	Sinusoidal endothelial cell
+C_527	Sinusoidal endothelial cell
+C_528	Sinusoidal endothelial cell
+C_529	Sinusoidal endothelial cell
+C_530	Sinusoidal endothelial cell
+C_531	Sinusoidal endothelial cell
+C_532	Sinusoidal endothelial cell
+C_533	Sinusoidal endothelial cell
+C_534	Monocyte
+C_535	Sinusoidal endothelial cell
+C_536	Sinusoidal endothelial cell
+C_537	Sinusoidal endothelial cell
+C_538	Sinusoidal endothelial cell
+C_539	Sinusoidal endothelial cell
+C_540	Sinusoidal endothelial cell
+C_541	Sinusoidal endothelial cell
+C_542	Sinusoidal endothelial cell
+C_543	Sinusoidal endothelial cell
+C_544	Sinusoidal endothelial cell
+C_545	Sinusoidal endothelial cell
+C_546	Sinusoidal endothelial cell
+C_547	Sinusoidal endothelial cell
+C_548	Sinusoidal endothelial cell
+C_549	Sinusoidal endothelial cell
+C_550	Sinusoidal endothelial cell
+C_551	Dendritic cell
+C_552	Sinusoidal endothelial cell
+C_553	Sinusoidal endothelial cell
+C_554	Endothelial cell (APC)
+C_555	Sinusoidal endothelial cell
+C_556	Sinusoidal endothelial cell
+C_557	Sinusoidal endothelial cell
+C_558	Sinusoidal endothelial cell
+C_559	Sinusoidal endothelial cell
+C_560	Sinusoidal endothelial cell
+C_561	Sinusoidal endothelial cell
+C_562	Sinusoidal endothelial cell
+C_563	Sinusoidal endothelial cell
+C_564	Sinusoidal endothelial cell
+C_565	Sinusoidal endothelial cell
+C_566	Sinusoidal endothelial cell
+C_567	Sinusoidal endothelial cell
+C_568	Sinusoidal endothelial cell
+C_569	Sinusoidal endothelial cell
+C_570	Sinusoidal endothelial cell
+C_571	Sinusoidal endothelial cell
+C_572	Sinusoidal endothelial cell
+C_573	Sinusoidal endothelial cell
+C_574	Sinusoidal endothelial cell
+C_575	Sinusoidal endothelial cell
+C_576	Sinusoidal endothelial cell
+C_577	Sinusoidal endothelial cell
+C_578	Sinusoidal endothelial cell
+C_579	Sinusoidal endothelial cell
+C_580	Sinusoidal endothelial cell
+C_581	Sinusoidal endothelial cell
+C_582	Sinusoidal endothelial cell
+C_583	Sinusoidal endothelial cell
+C_584	Sinusoidal endothelial cell
+C_585	Sinusoidal endothelial cell
+C_586	Sinusoidal endothelial cell
+C_587	Sinusoidal endothelial cell
+C_588	Sinusoidal endothelial cell
+C_589	Sinusoidal endothelial cell
+C_590	Sinusoidal endothelial cell
+C_591	Sinusoidal endothelial cell
+C_592	Sinusoidal endothelial cell
+C_593	Sinusoidal endothelial cell
+C_594	Sinusoidal endothelial cell
+C_595	Sinusoidal endothelial cell
+C_596	Sinusoidal endothelial cell
+C_597	Sinusoidal endothelial cell
+C_598	Sinusoidal endothelial cell
+C_599	Sinusoidal endothelial cell
+C_600	Sinusoidal endothelial cell
+C_601	Sinusoidal endothelial cell
+C_602	Sinusoidal endothelial cell
+C_603	Sinusoidal endothelial cell
+C_604	Sinusoidal endothelial cell
+C_605	Sinusoidal endothelial cell
+C_606	Sinusoidal endothelial cell
+C_607	Sinusoidal endothelial cell
+C_608	Sinusoidal endothelial cell
+C_609	Sinusoidal endothelial cell
+C_610	Sinusoidal endothelial cell
+C_611	Sinusoidal endothelial cell
+C_612	Sinusoidal endothelial cell
+C_613	Sinusoidal endothelial cell
+C_614	Sinusoidal endothelial cell
+C_615	Sinusoidal endothelial cell
+C_616	Sinusoidal endothelial cell
+C_617	Sinusoidal endothelial cell
+C_618	Sinusoidal endothelial cell
+C_619	Sinusoidal endothelial cell
+C_620	Sinusoidal endothelial cell
+C_621	Sinusoidal endothelial cell
+C_622	Sinusoidal endothelial cell
+C_623	Sinusoidal endothelial cell
+C_624	Sinusoidal endothelial cell
+C_625	Sinusoidal endothelial cell
+C_626	Sinusoidal endothelial cell
+C_627	Sinusoidal endothelial cell
+C_628	Sinusoidal endothelial cell
+C_629	Sinusoidal endothelial cell
+C_630	Sinusoidal endothelial cell
+C_631	Sinusoidal endothelial cell
+C_632	Sinusoidal endothelial cell
+C_633	Sinusoidal endothelial cell
+C_634	Sinusoidal endothelial cell
+C_635	Sinusoidal endothelial cell
+C_636	Sinusoidal endothelial cell
+C_637	Sinusoidal endothelial cell
+C_638	Sinusoidal endothelial cell
+C_639	Sinusoidal endothelial cell
+C_640	Sinusoidal endothelial cell
+C_641	Sinusoidal endothelial cell
+C_642	Sinusoidal endothelial cell
+C_643	Sinusoidal endothelial cell
+C_644	Sinusoidal endothelial cell
+C_645	Sinusoidal endothelial cell
+C_646	Sinusoidal endothelial cell
+C_647	Sinusoidal endothelial cell
+C_648	Sinusoidal endothelial cell
+C_649	Sinusoidal endothelial cell
+C_650	Sinusoidal endothelial cell
+C_651	Sinusoidal endothelial cell
+C_652	Sinusoidal endothelial cell
+C_653	Sinusoidal endothelial cell
+C_654	Sinusoidal endothelial cell
+C_655	Sinusoidal endothelial cell
+C_656	Sinusoidal endothelial cell
+C_657	Sinusoidal endothelial cell
+C_658	Sinusoidal endothelial cell
+C_659	Sinusoidal endothelial cell
+C_660	Sinusoidal endothelial cell
+C_661	Sinusoidal endothelial cell
+C_662	Sinusoidal endothelial cell
+C_663	Sinusoidal endothelial cell
+C_664	Sinusoidal endothelial cell
+C_665	Sinusoidal endothelial cell
+C_666	Sinusoidal endothelial cell
+C_667	Sinusoidal endothelial cell
+C_668	Sinusoidal endothelial cell
+C_669	Sinusoidal endothelial cell
+C_670	Sinusoidal endothelial cell
+C_671	Sinusoidal endothelial cell
+C_672	Sinusoidal endothelial cell
+C_673	Sinusoidal endothelial cell
+C_674	Sinusoidal endothelial cell
+C_675	Sinusoidal endothelial cell
+C_676	Sinusoidal endothelial cell
+C_677	Sinusoidal endothelial cell
+C_678	Sinusoidal endothelial cell
+C_679	Sinusoidal endothelial cell
+C_680	Sinusoidal endothelial cell
+C_681	Sinusoidal endothelial cell
+C_682	Endothelial cell
+C_683	B cell (Plasmocyte)
+C_684	B cell (Plasmocyte)
+C_685	B cell (Plasmocyte)
+C_686	B cell (Plasmocyte)
+C_687	B cell (Plasmocyte)
+C_688	B cell (Plasmocyte)
+C_689	B cell (Plasmocyte)
+C_690	B cell (Plasmocyte)
+C_691	B cell (Plasmocyte)
+C_692	B cell (Plasmocyte)
+C_693	B cell (Plasmocyte)
+C_694	B cell (Plasmocyte)
+C_695	B cell (Plasmocyte)
+C_696	B cell (Plasmocyte)
+C_697	B cell (Plasmocyte)
+C_698	B cell (Plasmocyte)
+C_699	B cell (Plasmocyte)
+C_700	B cell (Plasmocyte)
+C_701	B cell (Plasmocyte)
+C_702	B cell (Plasmocyte)
+C_703	B cell (Plasmocyte)
+C_704	B cell (Plasmocyte)
+C_705	B cell (Plasmocyte)
+C_706	B cell (Plasmocyte)
+C_707	B cell (Plasmocyte)
+C_708	B cell (Plasmocyte)
+C_709	B cell (Plasmocyte)
+C_710	B cell (Plasmocyte)
+C_711	B cell (Plasmocyte)
+C_712	B cell (Plasmocyte)
+C_713	B cell (Plasmocyte)
+C_714	B cell (Plasmocyte)
+C_715	B cell (Plasmocyte)
+C_716	B cell (Plasmocyte)
+C_717	B cell (Plasmocyte)
+C_718	B cell (Plasmocyte)
+C_719	T cell
+C_720	B cell (Plasmocyte)
+C_721	B cell (Plasmocyte)
+C_722	B cell (Plasmocyte)
+C_723	B cell (Plasmocyte)
+C_724	B cell (Plasmocyte)
+C_725	B cell (Plasmocyte)
+C_726	B cell (Plasmocyte)
+C_727	B cell (Plasmocyte)
+C_728	B cell (Plasmocyte)
+C_729	B cell (Plasmocyte)
+C_730	B cell (Plasmocyte)
+C_731	B cell (Plasmocyte)
+C_732	B cell (Plasmocyte)
+C_733	B cell (Plasmocyte)
+C_734	B cell (Plasmocyte)
+C_735	B cell (Plasmocyte)
+C_736	B cell (Plasmocyte)
+C_737	B cell (Plasmocyte)
+C_738	B cell (Plasmocyte)
+C_739	B cell (Plasmocyte)
+C_740	B cell (Plasmocyte)
+C_741	B cell (Plasmocyte)
+C_742	B cell (Plasmocyte)
+C_743	B cell (Plasmocyte)
+C_744	B cell (Plasmocyte)
+C_745	B cell (Plasmocyte)
+C_746	B cell (Plasmocyte)
+C_747	B cell (Plasmocyte)
+C_748	B cell (Plasmocyte)
+C_749	B cell (Plasmocyte)
+C_750	B cell (Plasmocyte)
+C_751	B cell (Plasmocyte)
+C_752	B cell (Plasmocyte)
+C_753	B cell (Plasmocyte)
+C_754	B cell (Plasmocyte)
+C_755	B cell (Plasmocyte)
+C_756	B cell (Plasmocyte)
+C_757	B cell (Plasmocyte)
+C_758	B cell (Plasmocyte)
+C_759	B cell (Plasmocyte)
+C_760	Sinusoidal endothelial cell
+C_761	B cell (Plasmocyte)
+C_762	Neutrophil
+C_763	B cell (Plasmocyte)
+C_764	B cell (Plasmocyte)
+C_765	B cell (Plasmocyte)
+C_766	B cell (Plasmocyte)
+C_767	B cell (Plasmocyte)
+C_768	B cell (Plasmocyte)
+C_769	B cell (Plasmocyte)
+C_770	B cell (Plasmocyte)
+C_771	B cell (Plasmocyte)
+C_772	T cell
+C_773	B cell (Plasmocyte)
+C_774	B cell (Plasmocyte)
+C_775	B cell (Plasmocyte)
+C_776	B cell (Plasmocyte)
+C_777	B cell (Plasmocyte)
+C_778	B cell (Plasmocyte)
+C_779	B cell (Plasmocyte)
+C_780	B cell (Plasmocyte)
+C_781	B cell (Plasmocyte)
+C_782	B cell (Plasmocyte)
+C_783	B cell (Plasmocyte)
+C_784	B cell (Plasmocyte)
+C_785	B cell (Plasmocyte)
+C_786	B cell (Plasmocyte)
+C_787	B cell (Plasmocyte)
+C_788	B cell (Plasmocyte)
+C_789	B cell (Plasmocyte)
+C_790	B cell (Plasmocyte)
+C_791	B cell (Plasmocyte)
+C_792	B cell (Plasmocyte)
+C_793	B cell (Plasmocyte)
+C_794	B cell (Plasmocyte)
+C_795	T cell
+C_796	Sinusoidal endothelial cell
+C_797	B cell (Plasmocyte)
+C_798	B cell (Plasmocyte)
+C_799	B cell (Plasmocyte)
+C_800	B cell (Plasmocyte)
+C_801	B cell (Plasmocyte)
+C_802	B cell (Plasmocyte)
+C_803	B cell (Plasmocyte)
+C_804	B cell (Plasmocyte)
+C_805	B cell (Plasmocyte)
+C_806	B cell (Plasmocyte)
+C_807	B cell (Plasmocyte)
+C_808	Antigen presenting cell (RPS high)
+C_809	B cell (Plasmocyte)
+C_810	B cell (Plasmocyte)
+C_811	B cell (Plasmocyte)
+C_812	B cell (Plasmocyte)
+C_813	Sinusoidal endothelial cell
+C_814	B cell (Plasmocyte)
+C_815	B cell (Plasmocyte)
+C_816	B cell (Plasmocyte)
+C_817	B cell (Plasmocyte)
+C_818	B cell (Plasmocyte)
+C_819	B cell (Plasmocyte)
+C_820	B cell (Plasmocyte)
+C_821	B cell (Plasmocyte)
+C_822	B cell (Plasmocyte)
+C_823	B cell (Plasmocyte)
+C_824	B cell (Plasmocyte)
+C_825	B cell (Plasmocyte)
+C_826	B cell (Plasmocyte)
+C_827	B cell (Plasmocyte)
+C_828	B cell (Plasmocyte)
+C_829	B cell (Plasmocyte)
+C_830	B cell (Plasmocyte)
+C_831	B cell (Plasmocyte)
+C_832	B cell (Plasmocyte)
+C_833	B cell (Plasmocyte)
+C_834	B cell (Plasmocyte)
+C_835	B cell (Plasmocyte)
+C_836	B cell (Plasmocyte)
+C_837	B cell (Plasmocyte)
+C_838	B cell
+C_839	B cell (Plasmocyte)
+C_840	B cell (Plasmocyte)
+C_841	B cell (Plasmocyte)
+C_842	B cell (Plasmocyte)
+C_843	B cell (Plasmocyte)
+C_844	B cell (Plasmocyte)
+C_845	B cell (Plasmocyte)
+C_846	B cell (Plasmocyte)
+C_847	B cell (Plasmocyte)
+C_848	B cell (Plasmocyte)
+C_849	B cell (Plasmocyte)
+C_850	B cell (Plasmocyte)
+C_851	B cell (Plasmocyte)
+C_852	B cell (Plasmocyte)
+C_853	B cell (Plasmocyte)
+C_854	B cell (Plasmocyte)
+C_855	B cell (Plasmocyte)
+C_856	B cell (Plasmocyte)
+C_857	T cell
+C_858	B cell (Plasmocyte)
+C_859	B cell (Plasmocyte)
+C_860	B cell (Plasmocyte)
+C_861	B cell (Plasmocyte)
+C_862	B cell (Plasmocyte)
+C_863	B cell (Plasmocyte)
+C_864	B cell (Plasmocyte)
+C_865	B cell (Plasmocyte)
+C_866	B cell (Plasmocyte)
+C_867	B cell (Plasmocyte)
+C_868	B cell (Plasmocyte)
+C_869	B cell (Plasmocyte)
+C_870	B cell
+C_871	B cell (Plasmocyte)
+C_872	B cell (Plasmocyte)
+C_873	B cell (Plasmocyte)
+C_874	B cell (Plasmocyte)
+C_875	B cell (Plasmocyte)
+C_876	B cell (Plasmocyte)
+C_877	B cell (Plasmocyte)
+C_878	Monocyte
+C_879	Monocyte
+C_880	Monocyte
+C_881	Monocyte
+C_882	Antigen presenting cell (RPS high)
+C_883	Sinusoidal endothelial cell
+C_884	Monocyte
+C_885	Antigen presenting cell (RPS high)
+C_886	Monocyte
+C_887	Neutrophil
+C_888	Monocyte
+C_889	Neutrophil
+C_890	Monocyte
+C_891	Monocyte
+C_892	Monocyte
+C_893	Monocyte
+C_894	Sinusoidal endothelial cell
+C_895	Monocyte
+C_896	Monocyte
+C_897	Monocyte
+C_898	Monocyte
+C_899	Sinusoidal endothelial cell
+C_900	Monocyte
+C_901	Monocyte
+C_902	Monocyte
+C_903	Monocyte
+C_904	B cell (Plasmocyte)
+C_905	Macrophage
+C_906	Monocyte
+C_907	Monocyte
+C_908	Monocyte
+C_909	Monocyte
+C_910	Monocyte
+C_911	Monocyte
+C_912	Monocyte
+C_913	Dendritic cell
+C_914	Monocyte
+C_915	Monocyte
+C_916	Antigen presenting cell (RPS high)
+C_917	Monocyte
+C_918	Monocyte
+C_919	Macrophage
+C_920	Monocyte
+C_921	Antigen presenting cell (RPS high)
+C_922	Monocyte
+C_923	Antigen presenting cell (RPS high)
+C_924	Monocyte
+C_925	Monocyte
+C_926	Monocyte
+C_927	Monocyte
+C_928	Monocyte
+C_929	Monocyte
+C_930	Monocyte
+C_931	Sinusoidal endothelial cell
+C_932	Sinusoidal endothelial cell
+C_933	Sinusoidal endothelial cell
+C_934	Monocyte
+C_935	Monocyte
+C_936	Monocyte
+C_937	Antigen presenting cell (RPS high)
+C_938	Monocyte
+C_939	Monocyte
+C_940	Antigen presenting cell (RPS high)
+C_941	Monocyte
+C_942	Dendritic cell
+C_943	Monocyte
+C_944	Monocyte
+C_945	Monocyte
+C_946	Monocyte
+C_947	Monocyte
+C_948	Monocyte
+C_949	Antigen presenting cell (RPS high)
+C_950	Antigen presenting cell (RPS high)
+C_951	Sinusoidal endothelial cell
+C_952	Monocyte
+C_953	Antigen presenting cell (RPS high)
+C_954	Monocyte
+C_955	Monocyte
+C_956	Monocyte
+C_957	Sinusoidal endothelial cell
+C_958	Monocyte
+C_959	Monocyte
+C_960	Monocyte
+C_961	Monocyte
+C_962	Antigen presenting cell (RPS high)
+C_963	Monocyte
+C_964	Monocyte
+C_965	Monocyte
+C_966	Monocyte
+C_967	Monocyte
+C_968	Monocyte
+C_969	Monocyte
+C_970	Monocyte
+C_971	Monocyte
+C_972	Monocyte
+C_973	Monocyte
+C_974	Monocyte
+C_975	Sinusoidal endothelial cell
+C_976	Monocyte
+C_977	Monocyte
+C_978	Monocyte
+C_979	Monocyte
+C_980	Monocyte
+C_981	Monocyte
+C_982	Antigen presenting cell (RPS high)
+C_983	Monocyte
+C_984	Dendritic cell
+C_985	Monocyte
+C_986	Monocyte
+C_987	Monocyte
+C_988	Dendritic cell
+C_989	Monocyte
+C_990	Monocyte
+C_991	Monocyte
+C_992	Monocyte
+C_993	Dendritic cell
+C_994	Monocyte
+C_995	Monocyte
+C_996	Monocyte
+C_997	Neutrophil
+C_998	Monocyte
+C_999	Monocyte
+C_1000	Monocyte
+C_1001	Monocyte
+C_1002	Monocyte
+C_1003	Monocyte
+C_1004	Monocyte
+C_1005	Antigen presenting cell (RPS high)
+C_1006	Monocyte
+C_1007	Monocyte
+C_1008	Antigen presenting cell (RPS high)
+C_1009	Monocyte
+C_1010	Sinusoidal endothelial cell
+C_1011	Monocyte
+C_1012	Sinusoidal endothelial cell
+C_1013	Sinusoidal endothelial cell
+C_1014	Monocyte
+C_1015	Monocyte
+C_1016	Sinusoidal endothelial cell
+C_1017	Neutrophil
+C_1018	Sinusoidal endothelial cell
+C_1019	Neutrophil
+C_1020	Sinusoidal endothelial cell
+C_1021	Sinusoidal endothelial cell
+C_1022	Neutrophil
+C_1023	Sinusoidal endothelial cell
+C_1024	Neutrophil
+C_1025	Sinusoidal endothelial cell
+C_1026	Sinusoidal endothelial cell
+C_1027	Sinusoidal endothelial cell
+C_1028	Sinusoidal endothelial cell
+C_1029	Neutrophil
+C_1030	Neutrophil
+C_1031	Neutrophil
+C_1032	Sinusoidal endothelial cell
+C_1033	Neutrophil
+C_1034	Sinusoidal endothelial cell
+C_1035	Sinusoidal endothelial cell
+C_1036	Sinusoidal endothelial cell
+C_1037	Neutrophil
+C_1038	Sinusoidal endothelial cell
+C_1039	Sinusoidal endothelial cell
+C_1040	Sinusoidal endothelial cell
+C_1041	Neutrophil
+C_1042	Sinusoidal endothelial cell
+C_1043	Neutrophil
+C_1044	Neutrophil
+C_1045	Neutrophil
+C_1046	Monocyte
+C_1047	Sinusoidal endothelial cell
+C_1048	Monocyte
+C_1049	Neutrophil
+C_1050	Sinusoidal endothelial cell
+C_1051	Neutrophil
+C_1052	Sinusoidal endothelial cell
+C_1053	Sinusoidal endothelial cell
+C_1054	Sinusoidal endothelial cell
+C_1055	Neutrophil
+C_1056	Neutrophil
+C_1057	Sinusoidal endothelial cell
+C_1058	Neutrophil
+C_1059	Sinusoidal endothelial cell
+C_1060	Sinusoidal endothelial cell
+C_1061	Neutrophil
+C_1062	Sinusoidal endothelial cell
+C_1063	Sinusoidal endothelial cell
+C_1064	Neutrophil
+C_1065	Neutrophil
+C_1066	Sinusoidal endothelial cell
+C_1067	Sinusoidal endothelial cell
+C_1068	Sinusoidal endothelial cell
+C_1069	Neutrophil
+C_1070	Sinusoidal endothelial cell
+C_1071	Neutrophil
+C_1072	Sinusoidal endothelial cell
+C_1073	Sinusoidal endothelial cell
+C_1074	Sinusoidal endothelial cell
+C_1075	Neutrophil
+C_1076	Neutrophil
+C_1077	Sinusoidal endothelial cell
+C_1078	Neutrophil
+C_1079	Sinusoidal endothelial cell
+C_1080	Sinusoidal endothelial cell
+C_1081	Sinusoidal endothelial cell
+C_1082	Sinusoidal endothelial cell
+C_1083	Sinusoidal endothelial cell
+C_1084	Sinusoidal endothelial cell
+C_1085	Sinusoidal endothelial cell
+C_1086	Neutrophil
+C_1087	Sinusoidal endothelial cell
+C_1088	Sinusoidal endothelial cell
+C_1089	Sinusoidal endothelial cell
+C_1090	Neutrophil
+C_1091	Neutrophil
+C_1092	Neutrophil
+C_1093	Sinusoidal endothelial cell
+C_1094	Neutrophil
+C_1095	Sinusoidal endothelial cell
+C_1096	Sinusoidal endothelial cell
+C_1097	Monocyte
+C_1098	Neutrophil
+C_1099	T cell
+C_1100	Neutrophil
+C_1101	T cell
+C_1102	Neutrophil
+C_1103	Sinusoidal endothelial cell
+C_1104	Neutrophil
+C_1105	Monocyte
+C_1106	Monocyte
+C_1107	Neutrophil
+C_1108	Sinusoidal endothelial cell
+C_1109	Sinusoidal endothelial cell
+C_1110	Neutrophil
+C_1111	Neutrophil
+C_1112	Monocyte
+C_1113	Neutrophil
+C_1114	Sinusoidal endothelial cell
+C_1115	Neutrophil
+C_1116	Sinusoidal endothelial cell
+C_1117	Neutrophil
+C_1118	Sinusoidal endothelial cell
+C_1119	Sinusoidal endothelial cell
+C_1120	Sinusoidal endothelial cell
+C_1121	Monocyte
+C_1122	Monocyte
+C_1123	Sinusoidal endothelial cell
+C_1124	Neutrophil
+C_1125	Sinusoidal endothelial cell
+C_1126	Sinusoidal endothelial cell
+C_1127	Neutrophil
+C_1128	Sinusoidal endothelial cell
+C_1129	Sinusoidal endothelial cell
+C_1130	Sinusoidal endothelial cell
+C_1131	Sinusoidal endothelial cell
+C_1132	Neutrophil
+C_1133	Sinusoidal endothelial cell
+C_1134	Neutrophil
+C_1135	Sinusoidal endothelial cell
+C_1136	Sinusoidal endothelial cell
+C_1137	Sinusoidal endothelial cell
+C_1138	Monocyte
+C_1139	Monocyte
+C_1140	Sinusoidal endothelial cell
+C_1141	Sinusoidal endothelial cell
+C_1142	Sinusoidal endothelial cell
+C_1143	Sinusoidal endothelial cell
+C_1144	Monocyte
+C_1145	Sinusoidal endothelial cell
+C_1146	Sinusoidal endothelial cell
+C_1147	Dendritic cell
+C_1148	Macrophage
+C_1149	Macrophage
+C_1150	Monocyte
+C_1151	Macrophage
+C_1152	Dendritic cell
+C_1153	Dendritic cell
+C_1154	Macrophage
+C_1155	Sinusoidal endothelial cell
+C_1156	Monocyte
+C_1157	Dendritic cell
+C_1158	Dendritic cell
+C_1159	Dendritic cell
+C_1160	Sinusoidal endothelial cell
+C_1161	Macrophage
+C_1162	Macrophage
+C_1163	Monocyte
+C_1164	Dendritic cell
+C_1165	Dendritic cell
+C_1166	Sinusoidal endothelial cell
+C_1167	Macrophage
+C_1168	Sinusoidal endothelial cell
+C_1169	Sinusoidal endothelial cell
+C_1170	Dendritic cell
+C_1171	Dendritic cell
+C_1172	Dendritic cell
+C_1173	Dendritic cell
+C_1174	Sinusoidal endothelial cell
+C_1175	Monocyte
+C_1176	Antigen presenting cell (RPS high)
+C_1177	Monocyte
+C_1178	Dendritic cell
+C_1179	Dendritic cell
+C_1180	Dendritic cell
+C_1181	Monocyte
+C_1182	Sinusoidal endothelial cell
+C_1183	Dendritic cell
+C_1184	B cell
+C_1185	B cell
+C_1186	Sinusoidal endothelial cell
+C_1187	Dendritic cell
+C_1188	Dendritic cell
+C_1189	Dendritic cell
+C_1190	Dendritic cell
+C_1191	Dendritic cell
+C_1192	Dendritic cell
+C_1193	Monocyte
+C_1194	Dendritic cell
+C_1195	Dendritic cell
+C_1196	Monocyte
+C_1197	Dendritic cell
+C_1198	Dendritic cell
+C_1199	Sinusoidal endothelial cell
+C_1200	Dendritic cell
+C_1201	Monocyte
+C_1202	Monocyte
+C_1203	Monocyte
+C_1204	Monocyte
+C_1205	Dendritic cell
+C_1206	Dendritic cell
+C_1207	Monocyte
+C_1208	Monocyte
+C_1209	Sinusoidal endothelial cell
+C_1210	Sinusoidal endothelial cell
+C_1211	Dendritic cell
+C_1212	Macrophage
+C_1213	Dendritic cell
+C_1214	Monocyte
+C_1215	Monocyte
+C_1216	Dendritic cell
+C_1217	Monocyte
+C_1218	B cell
+C_1219	Dendritic cell
+C_1220	B cell
+C_1221	Dendritic cell
+C_1222	Dendritic cell
+C_1223	Dendritic cell
+C_1224	Dendritic cell
+C_1225	Macrophage
+C_1226	Monocyte
+C_1227	Dendritic cell
+C_1228	Dendritic cell
+C_1229	Dendritic cell
+C_1230	Macrophage
+C_1231	Dendritic cell
+C_1232	Dendritic cell
+C_1233	Dendritic cell
+C_1234	Macrophage
+C_1235	Sinusoidal endothelial cell
+C_1236	Macrophage
+C_1237	Dendritic cell
+C_1238	Dendritic cell
+C_1239	Monocyte
+C_1240	Dendritic cell
+C_1241	Dendritic cell
+C_1242	Dendritic cell
+C_1243	Macrophage
+C_1244	Dendritic cell
+C_1245	Dendritic cell
+C_1246	Dendritic cell
+C_1247	Sinusoidal endothelial cell
+C_1248	Sinusoidal endothelial cell
+C_1249	Sinusoidal endothelial cell
+C_1250	Sinusoidal endothelial cell
+C_1251	Sinusoidal endothelial cell
+C_1252	Sinusoidal endothelial cell
+C_1253	Sinusoidal endothelial cell
+C_1254	Sinusoidal endothelial cell
+C_1255	Sinusoidal endothelial cell
+C_1256	Sinusoidal endothelial cell
+C_1257	Sinusoidal endothelial cell
+C_1258	Sinusoidal endothelial cell
+C_1259	Sinusoidal endothelial cell
+C_1260	Sinusoidal endothelial cell
+C_1261	Sinusoidal endothelial cell
+C_1262	Sinusoidal endothelial cell
+C_1263	Sinusoidal endothelial cell
+C_1264	Sinusoidal endothelial cell
+C_1265	Sinusoidal endothelial cell
+C_1266	Sinusoidal endothelial cell
+C_1267	Sinusoidal endothelial cell
+C_1268	Sinusoidal endothelial cell
+C_1269	Sinusoidal endothelial cell
+C_1270	Sinusoidal endothelial cell
+C_1271	Sinusoidal endothelial cell
+C_1272	Sinusoidal endothelial cell
+C_1273	Sinusoidal endothelial cell
+C_1274	Sinusoidal endothelial cell
+C_1275	Sinusoidal endothelial cell
+C_1276	Sinusoidal endothelial cell
+C_1277	Sinusoidal endothelial cell
+C_1278	Sinusoidal endothelial cell
+C_1279	Sinusoidal endothelial cell
+C_1280	Sinusoidal endothelial cell
+C_1281	Sinusoidal endothelial cell
+C_1282	Sinusoidal endothelial cell
+C_1283	Sinusoidal endothelial cell
+C_1284	Sinusoidal endothelial cell
+C_1285	Sinusoidal endothelial cell
+C_1286	Sinusoidal endothelial cell
+C_1287	Sinusoidal endothelial cell
+C_1288	Sinusoidal endothelial cell
+C_1289	Sinusoidal endothelial cell
+C_1290	Sinusoidal endothelial cell
+C_1291	Sinusoidal endothelial cell
+C_1292	Sinusoidal endothelial cell
+C_1293	Sinusoidal endothelial cell
+C_1294	Sinusoidal endothelial cell
+C_1295	Sinusoidal endothelial cell
+C_1296	Sinusoidal endothelial cell
+C_1297	Sinusoidal endothelial cell
+C_1298	Sinusoidal endothelial cell
+C_1299	Sinusoidal endothelial cell
+C_1300	Sinusoidal endothelial cell
+C_1301	Sinusoidal endothelial cell
+C_1302	Sinusoidal endothelial cell
+C_1303	Sinusoidal endothelial cell
+C_1304	Sinusoidal endothelial cell
+C_1305	Sinusoidal endothelial cell
+C_1306	Sinusoidal endothelial cell
+C_1307	Sinusoidal endothelial cell
+C_1308	Sinusoidal endothelial cell
+C_1309	Sinusoidal endothelial cell
+C_1310	Sinusoidal endothelial cell
+C_1311	Sinusoidal endothelial cell
+C_1312	Sinusoidal endothelial cell
+C_1313	Sinusoidal endothelial cell
+C_1314	Sinusoidal endothelial cell
+C_1315	Sinusoidal endothelial cell
+C_1316	Sinusoidal endothelial cell
+C_1317	Sinusoidal endothelial cell
+C_1318	Sinusoidal endothelial cell
+C_1319	Sinusoidal endothelial cell
+C_1320	Sinusoidal endothelial cell
+C_1321	Sinusoidal endothelial cell
+C_1322	Sinusoidal endothelial cell
+C_1323	Sinusoidal endothelial cell
+C_1324	Sinusoidal endothelial cell
+C_1325	Sinusoidal endothelial cell
+C_1326	Sinusoidal endothelial cell
+C_1327	Sinusoidal endothelial cell
+C_1328	Sinusoidal endothelial cell
+C_1329	Sinusoidal endothelial cell
+C_1330	Sinusoidal endothelial cell
+C_1331	Sinusoidal endothelial cell
+C_1332	Sinusoidal endothelial cell
+C_1333	Sinusoidal endothelial cell
+C_1334	Sinusoidal endothelial cell
+C_1335	Sinusoidal endothelial cell
+C_1336	Sinusoidal endothelial cell
+C_1337	Sinusoidal endothelial cell
+C_1338	Sinusoidal endothelial cell
+C_1339	Sinusoidal endothelial cell
+C_1340	Sinusoidal endothelial cell
+C_1341	Sinusoidal endothelial cell
+C_1342	Sinusoidal endothelial cell
+C_1343	Sinusoidal endothelial cell
+C_1344	Sinusoidal endothelial cell
+C_1345	Sinusoidal endothelial cell
+C_1346	B cell (Plasmocyte)
+C_1347	B cell (Plasmocyte)
+C_1348	Sinusoidal endothelial cell
+C_1349	Endothelial cell (APC)
+C_1350	Neutrophil
+C_1351	Sinusoidal endothelial cell
+C_1352	Sinusoidal endothelial cell
+C_1353	Endothelial cell (APC)
+C_1354	Sinusoidal endothelial cell
+C_1355	Sinusoidal endothelial cell
+C_1356	Macrophage
+C_1357	Sinusoidal endothelial cell
+C_1358	Sinusoidal endothelial cell
+C_1359	Sinusoidal endothelial cell
+C_1360	Sinusoidal endothelial cell
+C_1361	Endothelial cell (APC)
+C_1362	Sinusoidal endothelial cell
+C_1363	Smooth muscle cell
+C_1364	Sinusoidal endothelial cell
+C_1365	Sinusoidal endothelial cell
+C_1366	Endothelial cell
+C_1367	Sinusoidal endothelial cell
+C_1368	Endothelial cell (APC)
+C_1369	Sinusoidal endothelial cell
+C_1370	Sinusoidal endothelial cell
+C_1371	Fetal epithelial progenitor
+C_1372	Sinusoidal endothelial cell
+C_1373	Sinusoidal endothelial cell
+C_1374	Sinusoidal endothelial cell
+C_1375	Sinusoidal endothelial cell
+C_1376	Sinusoidal endothelial cell
+C_1377	Sinusoidal endothelial cell
+C_1378	Sinusoidal endothelial cell
+C_1379	Sinusoidal endothelial cell
+C_1380	Macrophage
+C_1381	Sinusoidal endothelial cell
+C_1382	Sinusoidal endothelial cell
+C_1383	Endothelial cell
+C_1384	Sinusoidal endothelial cell
+C_1385	Sinusoidal endothelial cell
+C_1386	Sinusoidal endothelial cell
+C_1387	Endothelial cell (APC)
+C_1388	Sinusoidal endothelial cell
+C_1389	Endothelial cell
+C_1390	Endothelial cell (APC)
+C_1391	Endothelial cell
+C_1392	Sinusoidal endothelial cell
+C_1393	Sinusoidal endothelial cell
+C_1394	Endothelial cell (APC)
+C_1395	Endothelial cell (APC)
+C_1396	Endothelial cell (APC)
+C_1397	T cell
+C_1398	Sinusoidal endothelial cell
+C_1399	Sinusoidal endothelial cell
+C_1400	Sinusoidal endothelial cell
+C_1401	Sinusoidal endothelial cell
+C_1402	Sinusoidal endothelial cell
+C_1403	Sinusoidal endothelial cell
+C_1404	Sinusoidal endothelial cell
+C_1405	Sinusoidal endothelial cell
+C_1406	Sinusoidal endothelial cell
+C_1407	Monocyte
+C_1408	Sinusoidal endothelial cell
+C_1409	Sinusoidal endothelial cell
+C_1410	Sinusoidal endothelial cell
+C_1411	Sinusoidal endothelial cell
+C_1412	Sinusoidal endothelial cell
+C_1413	Sinusoidal endothelial cell
+C_1414	Endothelial cell (APC)
+C_1415	Sinusoidal endothelial cell
+C_1416	Sinusoidal endothelial cell
+C_1417	Endothelial cell
+C_1418	Sinusoidal endothelial cell
+C_1419	Sinusoidal endothelial cell
+C_1420	Endothelial cell (APC)
+C_1421	Endothelial cell
+C_1422	Sinusoidal endothelial cell
+C_1423	B cell
+C_1424	Sinusoidal endothelial cell
+C_1425	Sinusoidal endothelial cell
+C_1426	Sinusoidal endothelial cell
+C_1427	Endothelial cell (APC)
+C_1428	Sinusoidal endothelial cell
+C_1429	Sinusoidal endothelial cell
+C_1430	Erythroid progenitor cell (RP high)
+C_1431	Endothelial cell
+C_1432	Sinusoidal endothelial cell
+C_1433	Endothelial cell
+C_1434	Sinusoidal endothelial cell
+C_1435	Sinusoidal endothelial cell
+C_1436	Endothelial cell (APC)
+C_1437	T cell
+C_1438	Endothelial cell
+C_1439	Sinusoidal endothelial cell
+C_1440	Sinusoidal endothelial cell
+C_1441	Neutrophil
+C_1442	Neutrophil
+C_1443	Neutrophil
+C_1444	Neutrophil
+C_1445	Neutrophil
+C_1446	Neutrophil
+C_1447	Neutrophil
+C_1448	Neutrophil
+C_1449	Neutrophil
+C_1450	Neutrophil
+C_1451	Neutrophil
+C_1452	Neutrophil
+C_1453	Neutrophil
+C_1454	Neutrophil
+C_1455	Neutrophil
+C_1456	Neutrophil
+C_1457	Neutrophil
+C_1458	Neutrophil
+C_1459	Neutrophil
+C_1460	Neutrophil
+C_1461	Neutrophil
+C_1462	Neutrophil
+C_1463	Neutrophil
+C_1464	Neutrophil
+C_1465	Neutrophil
+C_1466	Neutrophil
+C_1467	Neutrophil
+C_1468	Neutrophil
+C_1469	Neutrophil
+C_1470	Neutrophil
+C_1471	Neutrophil
+C_1472	Neutrophil
+C_1473	Neutrophil
+C_1474	Neutrophil
+C_1475	Neutrophil
+C_1476	Neutrophil
+C_1477	Neutrophil
+C_1478	Neutrophil
+C_1479	Neutrophil
+C_1480	Neutrophil
+C_1481	Neutrophil
+C_1482	Neutrophil
+C_1483	Neutrophil
+C_1484	Neutrophil
+C_1485	Neutrophil
+C_1486	Neutrophil
+C_1487	Neutrophil
+C_1488	Neutrophil
+C_1489	Neutrophil
+C_1490	Neutrophil
+C_1491	Neutrophil
+C_1492	Neutrophil
+C_1493	Neutrophil
+C_1494	Neutrophil
+C_1495	Neutrophil
+C_1496	Neutrophil
+C_1497	Neutrophil
+C_1498	Sinusoidal endothelial cell
+C_1499	Neutrophil
+C_1500	Neutrophil
+C_1501	Neutrophil
+C_1502	Neutrophil
+C_1503	Neutrophil
+C_1504	Neutrophil
+C_1505	Neutrophil
+C_1506	Neutrophil
+C_1507	Neutrophil
+C_1508	Neutrophil
+C_1509	Neutrophil
+C_1510	Neutrophil
+C_1511	Neutrophil
+C_1512	Neutrophil
+C_1513	Neutrophil
+C_1514	Neutrophil
+C_1515	Neutrophil
+C_1516	Neutrophil
+C_1517	Neutrophil
+C_1518	Neutrophil
+C_1519	Neutrophil
+C_1520	Neutrophil
+C_1521	Macrophage
+C_1522	Macrophage
+C_1523	Dendritic cell
+C_1524	Macrophage
+C_1525	Macrophage
+C_1526	Dendritic cell
+C_1527	Macrophage
+C_1528	Macrophage
+C_1529	Dendritic cell
+C_1530	Dendritic cell
+C_1531	Macrophage
+C_1532	Macrophage
+C_1533	Dendritic cell
+C_1534	Macrophage
+C_1535	Macrophage
+C_1536	Dendritic cell
+C_1537	Dendritic cell
+C_1538	Macrophage
+C_1539	Macrophage
+C_1540	Dendritic cell
+C_1541	Dendritic cell
+C_1542	Dendritic cell
+C_1543	Macrophage
+C_1544	Dendritic cell
+C_1545	Macrophage
+C_1546	Macrophage
+C_1547	Macrophage
+C_1548	Dendritic cell
+C_1549	Dendritic cell
+C_1550	Dendritic cell
+C_1551	Macrophage
+C_1552	Macrophage
+C_1553	Dendritic cell
+C_1554	Macrophage
+C_1555	Dendritic cell
+C_1556	Dendritic cell
+C_1557	Macrophage
+C_1558	Sinusoidal endothelial cell
+C_1559	Dendritic cell
+C_1560	Sinusoidal endothelial cell
+C_1561	Dendritic cell
+C_1562	Macrophage
+C_1563	Dendritic cell
+C_1564	Macrophage
+C_1565	Dendritic cell
+C_1566	Dendritic cell
+C_1567	Sinusoidal endothelial cell
+C_1568	Dendritic cell
+C_1569	Macrophage
+C_1570	Macrophage
+C_1571	Dendritic cell
+C_1572	Dendritic cell
+C_1573	Dendritic cell
+C_1574	Sinusoidal endothelial cell
+C_1575	Macrophage
+C_1576	Sinusoidal endothelial cell
+C_1577	Macrophage
+C_1578	Macrophage
+C_1579	Sinusoidal endothelial cell
+C_1580	Monocyte
+C_1581	Dendritic cell
+C_1582	Macrophage
+C_1583	Macrophage
+C_1584	Dendritic cell
+C_1585	Sinusoidal endothelial cell
+C_1586	Macrophage
+C_1587	Macrophage
+C_1588	Dendritic cell
+C_1589	Dendritic cell
+C_1590	Macrophage
+C_1591	Neutrophil
+C_1592	Macrophage
+C_1593	Macrophage
+C_1594	Neutrophil
+C_1595	Neutrophil
+C_1596	Neutrophil
+C_1597	Neutrophil
+C_1598	Neutrophil
+C_1599	Neutrophil
+C_1600	Neutrophil
+C_1601	Neutrophil
+C_1602	Neutrophil
+C_1603	Neutrophil
+C_1604	Neutrophil
+C_1605	Neutrophil
+C_1606	Neutrophil
+C_1607	Neutrophil
+C_1608	Neutrophil
+C_1609	Neutrophil
+C_1610	Neutrophil
+C_1611	Neutrophil
+C_1612	Neutrophil
+C_1613	Neutrophil
+C_1614	Neutrophil
+C_1615	Neutrophil
+C_1616	Neutrophil
+C_1617	Neutrophil
+C_1618	Neutrophil
+C_1619	Neutrophil
+C_1620	Neutrophil
+C_1621	Neutrophil
+C_1622	Neutrophil
+C_1623	Neutrophil
+C_1624	Neutrophil
+C_1625	Neutrophil
+C_1626	Neutrophil
+C_1627	Neutrophil
+C_1628	Neutrophil
+C_1629	Neutrophil
+C_1630	Neutrophil
+C_1631	Neutrophil
+C_1632	Neutrophil
+C_1633	Neutrophil
+C_1634	Neutrophil
+C_1635	Neutrophil
+C_1636	Neutrophil
+C_1637	Neutrophil
+C_1638	Neutrophil
+C_1639	Neutrophil
+C_1640	Neutrophil
+C_1641	Neutrophil
+C_1642	Neutrophil
+C_1643	Neutrophil
+C_1644	Neutrophil
+C_1645	Neutrophil
+C_1646	Neutrophil
+C_1647	Neutrophil
+C_1648	Neutrophil
+C_1649	Neutrophil
+C_1650	Neutrophil
+C_1651	Macrophage
+C_1652	Macrophage
+C_1653	Macrophage
+C_1654	Macrophage
+C_1655	Macrophage
+C_1656	Macrophage
+C_1657	Macrophage
+C_1658	Macrophage
+C_1659	Macrophage
+C_1660	Macrophage
+C_1661	Macrophage
+C_1662	Macrophage
+C_1663	Macrophage
+C_1664	Macrophage
+C_1665	Macrophage
+C_1666	Macrophage
+C_1667	Macrophage
+C_1668	Macrophage
+C_1669	Dendritic cell
+C_1670	Macrophage
+C_1671	Macrophage
+C_1672	Macrophage
+C_1673	Macrophage
+C_1674	Macrophage
+C_1675	Macrophage
+C_1676	Macrophage
+C_1677	Macrophage
+C_1678	Macrophage
+C_1679	Macrophage
+C_1680	Macrophage
+C_1681	Macrophage
+C_1682	Macrophage
+C_1683	Macrophage
+C_1684	Macrophage
+C_1685	Macrophage
+C_1686	Macrophage
+C_1687	Macrophage
+C_1688	Macrophage
+C_1689	Macrophage
+C_1690	Macrophage
+C_1691	Macrophage
+C_1692	Macrophage
+C_1693	Macrophage
+C_1694	Macrophage
+C_1695	Macrophage
+C_1696	Macrophage
+C_1697	Macrophage
+C_1698	Sinusoidal endothelial cell
+C_1699	Sinusoidal endothelial cell
+C_1700	Sinusoidal endothelial cell
+C_1701	Sinusoidal endothelial cell
+C_1702	Sinusoidal endothelial cell
+C_1703	Sinusoidal endothelial cell
+C_1704	Sinusoidal endothelial cell
+C_1705	Sinusoidal endothelial cell
+C_1706	Sinusoidal endothelial cell
+C_1707	Sinusoidal endothelial cell
+C_1708	Sinusoidal endothelial cell
+C_1709	Sinusoidal endothelial cell
+C_1710	Sinusoidal endothelial cell
+C_1711	Sinusoidal endothelial cell
+C_1712	Sinusoidal endothelial cell
+C_1713	Sinusoidal endothelial cell
+C_1714	Sinusoidal endothelial cell
+C_1715	Sinusoidal endothelial cell
+C_1716	Sinusoidal endothelial cell
+C_1717	Neutrophil
+C_1718	Sinusoidal endothelial cell
+C_1719	Sinusoidal endothelial cell
+C_1720	Macrophage
+C_1721	Sinusoidal endothelial cell
+C_1722	Sinusoidal endothelial cell
+C_1723	Monocyte
+C_1724	Sinusoidal endothelial cell
+C_1725	Sinusoidal endothelial cell
+C_1726	Sinusoidal endothelial cell
+C_1727	Sinusoidal endothelial cell
+C_1728	Sinusoidal endothelial cell
+C_1729	Sinusoidal endothelial cell
+C_1730	Sinusoidal endothelial cell
+C_1731	Sinusoidal endothelial cell
+C_1732	Sinusoidal endothelial cell
+C_1733	Sinusoidal endothelial cell
+C_1734	Sinusoidal endothelial cell
+C_1735	Sinusoidal endothelial cell
+C_1736	Sinusoidal endothelial cell
+C_1737	Sinusoidal endothelial cell
+C_1738	Sinusoidal endothelial cell
+C_1739	Sinusoidal endothelial cell
+C_1740	Neutrophil
+C_1741	Neutrophil
+C_1742	Neutrophil
+C_1743	Neutrophil
+C_1744	Neutrophil
+C_1745	Neutrophil
+C_1746	Neutrophil
+C_1747	Neutrophil
+C_1748	Neutrophil
+C_1749	Neutrophil
+C_1750	Neutrophil
+C_1751	Neutrophil
+C_1752	Neutrophil
+C_1753	Neutrophil
+C_1754	Neutrophil
+C_1755	Neutrophil
+C_1756	Neutrophil
+C_1757	Neutrophil
+C_1758	Neutrophil
+C_1759	Neutrophil
+C_1760	Neutrophil
+C_1761	Neutrophil
+C_1762	Neutrophil
+C_1763	Neutrophil
+C_1764	Neutrophil
+C_1765	Neutrophil
+C_1766	Neutrophil
+C_1767	Neutrophil
+C_1768	Neutrophil
+C_1769	Neutrophil
+C_1770	Neutrophil
+C_1771	Neutrophil
+C_1772	Neutrophil
+C_1773	Neutrophil
+C_1774	Neutrophil
+C_1775	Neutrophil
+C_1776	Neutrophil
+C_1777	Neutrophil
+C_1778	Sinusoidal endothelial cell
+C_1779	Sinusoidal endothelial cell
+C_1780	Sinusoidal endothelial cell
+C_1781	Sinusoidal endothelial cell
+C_1782	Sinusoidal endothelial cell
+C_1783	Sinusoidal endothelial cell
+C_1784	Sinusoidal endothelial cell
+C_1785	Sinusoidal endothelial cell
+C_1786	Enterocyte progenitor
+C_1787	Sinusoidal endothelial cell
+C_1788	Sinusoidal endothelial cell
+C_1789	Enterocyte progenitor
+C_1790	Sinusoidal endothelial cell
+C_1791	Sinusoidal endothelial cell
+C_1792	Sinusoidal endothelial cell
+C_1793	Sinusoidal endothelial cell
+C_1794	Sinusoidal endothelial cell
+C_1795	Sinusoidal endothelial cell
+C_1796	Sinusoidal endothelial cell
+C_1797	Sinusoidal endothelial cell
+C_1798	Sinusoidal endothelial cell
+C_1799	Enterocyte progenitor
+C_1800	Sinusoidal endothelial cell
+C_1801	Mast cell
+C_1802	Mast cell
+C_1803	Mast cell
+C_1804	Mast cell
+C_1805	T cell
+C_1806	Mast cell
+C_1807	Mast cell
+C_1808	Mast cell
+C_1809	Mast cell
+C_1810	Dendritic cell
+C_1811	Mast cell

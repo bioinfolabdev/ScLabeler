@@ -1,0 +1,20 @@
+True Cell Types,Predicted Cell Types,value
+B cell,B cell,138
+B cell,Endothelial cell,16
+B cell,Monocyte,2
+B cell,T cell,34
+B cell,Unrecognized,15
+Endothelial cell,Endothelial cell,1784
+Endothelial cell,Macrophage,3
+Endothelial cell,Monocyte,1
+Endothelial cell,Neutrophil,3
+Endothelial cell,T cell,21
+Endothelial cell,Unrecognized,18
+T cell,B cell,21
+T cell,Dendritic cell,2
+T cell,Endothelial cell,105
+T cell,Macrophage,6
+T cell,Monocyte,34
+T cell,Neutrophil,2
+T cell,T cell,2838
+T cell,Unrecognized,58

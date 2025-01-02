@@ -1,0 +1,11 @@
+Cell Type,Sample Count,Accuracy
+Endothelial,795,0.8075471698113208
+Macrophage,404,0.9405940594059405
+Dendritic cell,364,0.8214285714285714
+T cell,185,0.8810810810810811
+B cell,117,0.9743589743589743
+Monocyte,117,0.5897435897435898
+Neutrophil,72,0.9027777777777778
+Antigen presenting cell (RPS high),7,0.0
+Unrecognized,7,0.2857142857142857
+Progenitors,6,0.0

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sankey Diagram Centered</title>
+                <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/echarts.min.js"></script>
+
+</head>
+<body >
+    <div id="1f28071f18444c249a75d5ed74547267" class="chart-container" style="width:1200px; height:800px; "></div>
+    <script>
+        var chart_1f28071f18444c249a75d5ed74547267 = echarts.init(
+            document.getElementById('1f28071f18444c249a75d5ed74547267'), 'white', {renderer: 'canvas'});
+        var option_1f28071f18444c249a75d5ed74547267 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "aria": {
+        "enabled": false
+    },
+    "color": [
+        "#5470c6",
+        "#91cc75",
+        "#fac858",
+        "#ee6666",
+        "#73c0de",
+        "#3ba272",
+        "#fc8452",
+        "#9a60b4",
+        "#ea7ccc"
+    ],
+    "series": [
+        {
+            "type": "sankey",
+            "data": [
+                {
+                    "name": "B cell (\u771f\u5b9e\u7c7b\u522b)"
+                },
+                {
+                    "name": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)"
+                },
+                {
+                    "name": "T cell (\u771f\u5b9e\u7c7b\u522b)"
+                },
+                {
+                    "name": "B cell (\u9884\u6d4b\u7c7b\u522b)"
+                },
+                {
+                    "name": "Endothelial cell (\u9884\u6d4b\u7c7b\u522b)"
+                },
+                {
+                    "name": "Monocyte (\u9884\u6d4b\u7c7b\u522b)"
+                },
+                {
+                    "name": "T cell (\u9884\u6d4b\u7c7b\u522b)"
+                },
+                {
+                    "name": "Unrecognized (\u9884\u6d4b\u7c7b\u522b)"
+                },
+                {
+                    "name": "Macrophage (\u9884\u6d4b\u7c7b\u522b)"
+                },
+                {
+                    "name": "Neutrophil (\u9884\u6d4b\u7c7b\u522b)"
+                },
+                {
+                    "name": "Dendritic cell (\u9884\u6d4b\u7c7b\u522b)"
+                }
+            ],
+            "links": [
+                {
+                    "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "B cell (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 138
+                },
+                {
+                    "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Endothelial cell (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 16
+                },
+                {
+                    "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Monocyte (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 2
+                },
+                {
+                    "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "T cell (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 34
+                },
+                {
+                    "source": "B cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Unrecognized (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 15
+                },
+                {
+                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Endothelial cell (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 1784
+                },
+                {
+                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Macrophage (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 3
+                },
+                {
+                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Monocyte (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 1
+                },
+                {
+                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Neutrophil (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 3
+                },
+                {
+                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "T cell (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 21
+                },
+                {
+                    "source": "Endothelial cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Unrecognized (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 18
+                },
+                {
+                    "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "B cell (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 21
+                },
+                {
+                    "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Dendritic cell (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 2
+                },
+                {
+                    "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Endothelial cell (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 105
+                },
+                {
+                    "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Macrophage (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 6
+                },
+                {
+                    "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Monocyte (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 34
+                },
+                {
+                    "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Neutrophil (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 2
+                },
+                {
+                    "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "T cell (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 2838
+                },
+                {
+                    "source": "T cell (\u771f\u5b9e\u7c7b\u522b)",
+                    "target": "Unrecognized (\u9884\u6d4b\u7c7b\u522b)",
+                    "value": 58
+                }
+            ],
+            "left": "5%",
+            "top": "5%",
+            "right": "20%",
+            "bottom": "5%",
+            "nodeWidth": 20,
+            "nodeGap": 30,
+            "nodeAlign": "justify",
+            "orient": "horizontal",
+            "draggable": true,
+            "label": {
+                "show": true,
+                "position": "right",
+                "margin": 8,
+                "fontSize": 18,
+                "fontFamily": "Arial",
+                "valueAnimation": false
+            },
+            "lineStyle": {
+                "show": true,
+                "width": 1,
+                "opacity": 0.3,
+                "curveness": 0.5,
+                "type": "solid",
+                "color": "source"
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                ""
+            ],
+            "selected": {},
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "backgroundColor": "transparent",
+            "borderColor": "#ccc",
+            "borderRadius": 0,
+            "pageButtonItemGap": 5,
+            "pageButtonPosition": "end",
+            "pageFormatter": "{current}/{total}",
+            "pageIconColor": "#2f4554",
+            "pageIconInactiveColor": "#aaa",
+            "pageIconSize": 15,
+            "animationDurationUpdate": 800,
+            "selector": false,
+            "selectorPosition": "auto",
+            "selectorItemGap": 7,
+            "selectorButtonGap": 10
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "enterable": false,
+        "confine": false,
+        "appendToBody": false,
+        "transitionDuration": 0.4,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5,
+        "order": "seriesAsc"
+    },
+    "title": [
+        {
+            "show": true,
+            "text": "human_Liver5101",
+            "target": "blank",
+            "subtarget": "blank",
+            "left": "center",
+            "top": "0px",
+            "padding": 5,
+            "itemGap": 10,
+            "textAlign": "auto",
+            "textVerticalAlign": "auto",
+            "triggerEvent": false,
+            "textStyle": {
+                "fontSize": 24
+            }
+        }
+    ]
+};
+        chart_1f28071f18444c249a75d5ed74547267.setOption(option_1f28071f18444c249a75d5ed74547267);
+    </script>
+</body>
+</html>
