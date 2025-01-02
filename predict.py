@@ -245,37 +245,37 @@ def find_file_pairs_and_process(test_data_folder, model_folder, save_folder, map
     results_df.to_csv(results_file, index=False)
     print(f"All results saved to {results_file}")
 
-# # Paths
-# model_folder = 'model'
-# save_folder = 'results'
-# test_data_folder = 'test data'
-# mapping_table_path = 'Celltype/Celltype.xlsx'
+# Paths
+model_folder = 'model'
+save_folder = 'results'
+test_data_folder = 'test data'
+mapping_table_path = 'Celltype/Celltype.xlsx'
 
-# # Run the processing function
-# find_file_pairs_and_process(test_data_folder, model_folder, save_folder, mapping_table_path)
+# Run the processing function
+find_file_pairs_and_process(test_data_folder, model_folder, save_folder, mapping_table_path)
 
 
-# 文件路径
-data_file = 'test data/human/Liver/human_Liver3502_Data.txt'
-celltype_file = 'test data/human/Liver/human_Liver3502_Celltype.txt'
+# # 文件路径
+# data_file = 'test data/human/Liver/human_Liver3502_Data.txt'
+# celltype_file = 'test data/human/Liver/human_Liver3502_Celltype.txt'
 
-# 相关路径
-species_name = "human"  # 物种名称
-tissue_name = "Liver"  # 组织名称
-model_folder = 'model'  # 模型保存路径
-save_folder = 'results'  # 保存结果的路径
-mapping_table_path = 'Celltype/Celltype.xlsx'  # 映射表路径
+# # 相关路径
+# species_name = "human"  # 物种名称
+# tissue_name = "Liver"  # 组织名称
+# model_folder = 'model'  # 模型保存路径
+# save_folder = 'results'  # 保存结果的路径
+# mapping_table_path = 'Celltype/Celltype.xlsx'  # 映射表路径
 
-# 加载映射表
-mapping_dict = load_mapping_table(mapping_table_path)
+# # 加载映射表
+# mapping_dict = load_mapping_table(mapping_table_path)
 
-# 调用 process_file_pair 处理单个文件
-result = process_file_pair(
-    species_name=species_name,
-    tissue_name=tissue_name,
-    data_file=data_file,
-    celltype_file=celltype_file,
-    model_folder=model_folder,
-    save_folder=save_folder,
-    mapping_dict=mapping_dict
-)
+# # 调用 process_file_pair 处理单个文件
+# result = process_file_pair(
+#     species_name=species_name,
+#     tissue_name=tissue_name,
+#     data_file=data_file,
+#     celltype_file=celltype_file,
+#     model_folder=model_folder,
+#     save_folder=save_folder,
+#     mapping_dict=mapping_dict
+# )
