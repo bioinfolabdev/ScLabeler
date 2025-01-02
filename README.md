@@ -44,7 +44,7 @@ output_file = 'train result/results.csv'
 此后再根据上述使用预训练模型步骤进行预测即可。
 
 #### 可视化
-[![R 4.42](https://img.shields.io/badge/R-%3E4.40-blue)](https://www.r-project.org/)  [![pyecharts-2.0.7](https://img.shields.io/badge/tpyecharts-2.0.7-orange)](https://github.com/pyecharts/pyecharts/)
+[![R 4.42](https://img.shields.io/badge/R-%3E4.40-blue)](https://www.r-project.org/)  [![pyecharts-2.0.7](https://img.shields.io/badge/pyecharts-2.0.7-orange)](https://github.com/pyecharts/pyecharts/)
 
 在[`visualization/UMAP.R`](https://github.com/bioinfolabdev/ScLabeler/blob/main/visualization/UMAP.R)中指定基因表达矩阵`expression_matrix`以及细胞预测结果文件路径`sclabeler_file`，可绘制细胞UMAP图：
 ```
@@ -80,7 +80,7 @@ file_path = '../results/human/Liver/human_Liver5101_predictions.csv'  # 替换�
 
 
 # Data availability 
-[![scDeepSort-Python](https://img.shields.io/badge/ScLabeler-Python-brightgreen)](1) 
+[![ScLabeler-Python](https://img.shields.io/badge/ScLabeler-Python-brightgreen)](1) 
 
 All pre-processed data are available in the form of readily-for-analysis for researchers to develop new methods. Please refer to the release page called [`Pre-processed data`](1)
 
