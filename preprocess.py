@@ -35,32 +35,39 @@ for species_folder in os.listdir(root_folder_path):
                 
                 # 遍历每对文件，执行处理逻辑
                 for prefix, pair in file_pairs.items():
-                    if 'celltype' in pair and 'data' in pair:
-                        celltype_file = os.path.join(tissue_folder_path, pair['celltype'])
+                    if 'data' in pair:
                         data_file = os.path.join(tissue_folder_path, pair['data'])
 
-                        # 加载输入文件
-                        celltype_df = pd.read_csv(celltype_file, header=0)
+                        # 加载数据文件
                         data_df = pd.read_csv(data_file, header=0, index_col=0)
 
                         # 提取 species 和 tissue
-                        species = species_folder
-                        tissue = tissue_folder
+                        species = species_folder  # 物种从文件夹名称获取
+                        tissue = tissue_folder  # 组织从文件夹名称获取
 
-                        # 创建目录
-                        output_species_folder = f"data/{species}"
-                        output_tissue_folder = f"{output_species_folder}/{tissue}"
-                        os.makedirs(output_tissue_folder, exist_ok=True)
+                        # 如果存在 celltype 文件，则加载并处理 celltype 信息
+                        if 'celltype' in pair:
+                            celltype_file = os.path.join(tissue_folder_path, pair['celltype'])
+                            celltype_df = pd.read_csv(celltype_file, header=0)
+                            
+                            # 处理与 celltype 相关的逻辑
+                            celltype_df.set_index('Cell', inplace=True)
+                            filtered_celltype_df = celltype_df.loc[celltype_df.index.isin(data_df.columns)]
+                            filtered_celltype_df.reset_index(inplace=True)
+                            filtered_celltype_df = filtered_celltype_df[['Cell', 'Cell_type']]
 
-                        # 过滤逻辑
+                            # 输出处理后的 celltype 信息（如果有）
+                            print(f"Processed celltype file for {prefix}")
+                        else:
+                            # 如果没有 celltype 文件，可以设置一个默认值或跳过相关逻辑
+                            filtered_celltype_df = pd.DataFrame(columns=['Cell', 'Cell_type'])
+                            print(f"No celltype file for {prefix}, skipping celltype processing.")
+                        
+                        # 继续执行与 data 相关的处理逻辑
                         filtered_data_df = data_df.loc[:, (data_df != 0).any(axis=0)]
                         filtered_data_df = filtered_data_df[(filtered_data_df != 0).any(axis=1)]
-                        celltype_df.set_index('Cell', inplace=True)
-                        filtered_celltype_df = celltype_df.loc[celltype_df.index.isin(filtered_data_df.columns)]
-                        filtered_celltype_df.reset_index(inplace=True)
-                        filtered_celltype_df = filtered_celltype_df[['Cell', 'Cell_type']]
 
-                        # 基因转换逻辑
+                        # 基因转换和过滤等逻辑
                         combined_species_gene_data = pd.read_csv('geneinfo/gene_info.txt', sep='\t')
                         filtered_data_df.index = filtered_data_df.index.str.upper()
                         valid_genes = combined_species_gene_data.loc[
@@ -100,14 +107,18 @@ for species_folder in os.listdir(root_folder_path):
                         # 生成最终文件名并保存
                         num_cells = filtered_data_df.shape[1]
                         data_output_filename = f"{species}_{tissue}{num_cells}_Data.txt"
-                        celltype_output_filename = f"{species}_{tissue}{num_cells}_Celltype.txt"
+                        data_output_path = os.path.join(tissue_folder_path, data_output_filename)
 
-                        data_output_path = os.path.join(output_tissue_folder, data_output_filename)
-                        celltype_output_path = os.path.join(output_tissue_folder, celltype_output_filename)
-
+                        # 保存处理后的文件
                         filtered_data_df.to_csv(data_output_path, sep='\t')
-                        filtered_celltype_df.to_csv(celltype_output_path, sep='\t', index=False)
 
-                        print(f"Processed files for {species} - {tissue} - prefix: {prefix}")
+                        # 如果有 celltype 信息，保存对应的 celltype 文件
+                        if not filtered_celltype_df.empty:
+                            celltype_output_filename = f"{species}_{tissue}{num_cells}_Celltype.txt"
+                            celltype_output_path = os.path.join(tissue_folder_path, celltype_output_filename)
+                            filtered_celltype_df.to_csv(celltype_output_path, sep='\t', index=False)
+
+                        print(f"Processed data file for {prefix}")
+
                     else:
                         print(f"Missing pair for prefix: {prefix} in {tissue_folder_path}")
