@@ -71,11 +71,12 @@ file_path = '../results/human/Liver/human_Liver5101_predictions.csv'  # 替换�
 
 
 <div style="text-align: center;">
-  <a href="https://github.com/bioinfolabdev/ScLabeler/blob/main/visualization/human_Liver5101_sankey.html" target="_blank">
+  <a href="https://raw.githubusercontent.com/bioinfolabdev/ScLabeler/main/visualization/human_Liver5101_sankey.html" target="_blank">
     <img src="https://github.com/bioinfolabdev/ScLabeler/blob/main/visualization/%E7%BB%86%E8%83%9E%E7%B1%BB%E5%9E%8B%E7%BB%9F%E8%AE%A1.png" alt="Predicted Cell Types" width="700">
   </a>
   <p><strong>点击图片查看详细图表</strong></p>
 </div>
+
 
 
 # Data availability 
